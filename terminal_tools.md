@@ -318,6 +318,12 @@ Go 语言开发的 TUI 日志管理工具。
 
 ## 网络工具
 
+### [Kilobat CLI](https://github.com/seifip/kilobat-cli)
+
+macOS 网络状态与诊断命令行工具，支持 JSON 输出和读取可访问的 Clash 兼容控制器。
+
+**安装方式**：`brew install seifip/kilobat/kilobat`（macOS 14+；从源码构建需要 Xcode 16+）
+
 ### [curl](https://curl.se/)
 
 强大的数据传输工具。
